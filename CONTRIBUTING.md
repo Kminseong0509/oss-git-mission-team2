@@ -34,7 +34,7 @@ GitHub에 협업 과정이 기록되도록 하는 것입니다.
 ```bash
 git checkout main
 git pull origin main --no-rebase
-
+```
 ---
 
 ## 4. branch 이름 규칙
@@ -46,7 +46,7 @@ feature/4-team-rule
 fix/5-readme-typo
 chore/6-create-weekly-folder
 
-## 5. Commit Message 규칠
+## 5. Commit Message 규칙
 
 종류: 작업 내용
 
@@ -139,7 +139,7 @@ git add로 해결한 파일을 추가한다.
 git commit으로 충돌 해결 내용을 기록한다.
 docs/conflict-log.md에 원인과 해결 방법을 작성한다.
 
-## 14. Conflict 기록 규칙
+## 13. Conflict 기록 규칙
 
 충돌이 발생하면 docs/conflict-log.md에 아래 형식으로 기록합니다.
 
