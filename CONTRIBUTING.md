@@ -35,6 +35,7 @@ GitHub에 협업 과정이 기록되도록 하는 것입니다.
 git checkout main
 git pull origin main --no-rebase
 ```
+
 ---
 
 ## 4. branch 이름 규칙
